@@ -1,0 +1,15 @@
+{
+    "name": "leokim/learning-pack",
+    "authors": [
+        {
+            "name": "Leo Kim",
+            "email": "admin@leokim.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LeoKim\\LearningPack\\": "src/"
+        }
+    }
+}
